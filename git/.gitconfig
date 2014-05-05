@@ -1,6 +1,6 @@
 [user]
-	name = James Tomasino
-	email = james@tomasino.org
+	name = Thaw Htaik
+	email = thaw.htaik@gsw-w.com
 [core]
 	whitespace = trailing-space, space-before-tab
 	excludesfile = ~/.gitignore_global
@@ -58,7 +58,7 @@
 	untracked = cyan
 
 [github]
-	user = jamestomasino
+	user = thawhtaik
 
 [alias]
 

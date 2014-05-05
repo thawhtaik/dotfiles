@@ -34,9 +34,17 @@ alias vime='vim -u ~/.vimrc.encryption.local -x'
 alias vimr='vim -u NONE'
 
 # git
+alias gap="git add -p"
+alias gm="git mergetool"
+alias gc="git commit -m"
+alias gca="git commit -am"
 alias gs="git status"
 alias gb="git branch"
-alias gap="git add -p"
+alias gr="git remote"
+alias gco="git checkout"
+alias unstage="git reset HEAD --"
+alias last="git log -1 HEAD"
+alias visual="gitk"
 
 # tmux
 alias tmux='tmux -2'
